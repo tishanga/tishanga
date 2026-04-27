@@ -1,18 +1,140 @@
-![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)<h1 align="center">Hi 👋, I'm Tishanaga</h1>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
-<h3 align="center">A motivated person who can grasp anything quickly, Good troubleshooting skills, a team player with team management skills and leadership skills.</h3>
+<!-- TISHANGA SHANTHAPRIYA | GITHUB PROFILE README -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tishanga&label=Profile%20views&color=0e75b6&style=flat" alt="tishanga" /> </p>
+<div align="center">
 
-- 📫 How to reach me **tishanag46@gmail.com**
+```
+ ████████╗██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗ ██████╗  █████╗ 
+    ██╔══╝██║██╔════╝██║  ██║██╔══██╗████╗  ██║██╔════╝ ██╔══██╗
+    ██║   ██║███████╗███████║███████║██╔██╗ ██║██║  ███╗███████║
+    ██║   ██║╚════██║██╔══██║██╔══██║██║╚██╗██║██║   ██║██╔══██║
+    ██║   ██║███████║██║  ██║██║  ██║██║ ╚████║╚██████╔╝██║  ██║
+    ╚═╝   ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/indominus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="indominus" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tishanga shantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tishanga shantha" height="30" width="40" /></a>
-<a href="https://fb.com/tishanga shantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tishanga shantha" height="30" width="40" /></a>
-<a href="https://instagram.com/__tishanga__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tishanga__" height="30" width="40" /></a>
-</p>
+### `> Network Assistant @ Open University of Sri Lanka`
+### `> Packet wrangler · Container deployer · Linux tinkerer`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Configuring+switches+by+day...;Spinning+up+Docker+containers+by+night...;Still+figuring+out+BGP.+Aren't+we+all%3F;ping+tishanga.lk+--+TTL+64%2C+alive+and+learning)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🖧 `whoami`
+
+```bash
+$ cat /etc/tishanga/profile.conf
+
+[identity]
+name        = Tishanga Shanthapriya
+role        = Network Assistant
+org         = Open University of Sri Lanka
+location    = Sri Lanka 🇱🇰
+status      = actively learning && open to opportunities
+
+[personality]
+type        = "builder who breaks things to understand them"
+superpower  = turning lab chaos into working infrastructure
+currently   = somewhere between CCNA and "why won't this container start"
+```
+
+---
+
+## 🔧 `tech --list`
+
+**🌐 Networking**
+```
+Switching     ████████████████░░░░  Solid — VLANs, trunks, STP, the works
+Routing       ████████░░░░░░░░░░░░  Growing — static + basics of dynamic
+Firmware      ██████████████░░░░░░  Switch upgrades, IOS management
+Cisco Labs    ████████████░░░░░░░░  ContainerLab + real hardware
+```
+
+**🐳 Containers & Infrastructure**
+```
+Docker        ██████████████████░░  Deployed real production workloads
+Linux         ████████████░░░░░░░░  Self-taught in the trenches
+Helpdesk App  ✅ Shipped it. It works. People use it.
+```
+
+---
+
+## 🚀 `tail -n 3 ~/projects/recent.log`
+
+
+### 🔬 Cisco ContainerLab Environment
+> Built a virtual network lab using ContainerLab to simulate Cisco topologies
+> without needing a rack full of hardware (or a budget for one).
+```
+Stack: ContainerLab · Docker · Cisco IOS · Linux
+Status: 🟡 Always evolving
+```
+
+### 🤖 Ansible Switch IOS Upgrade Automation
+> Wrote an Ansible playbook to automate IOS firmware upgrades across switches via SSH.
+> It worked. Technically. Except one switch decided SSH was too slow and the upgrade
+> took significantly longer than just clicking through the web UI.
+> Lesson learned: automation isn't always faster — but it's always more interesting.
+```
+Stack: Ansible · Aruba IOS · SSH · Linux
+Result: ✅ Successful project  ❌ Abandoned in production
+        (the web login won. this time.)
+```
+
+### 📦 IT Helpdesk System (Dockerized)
+> Deployed a fully containerized IT helpdesk solution for the university.
+> Because manually tracking support tickets on spreadsheets is a crime.
+```
+Stack: Docker · Linux · Networking
+Status: 🟢 Running in production
+```
+
+
+---
+
+## 📡 `current --focus`
+
+```yaml
+learning:
+  - Routing protocols (OSPF, EIGRP — one day, BGP)
+  - Deeper Linux (scripting, automation)
+  - Network automation with Ansible / Python
+
+building:
+  - More containerized tools for the uni
+  - Home lab expansions
+
+seeking:
+  - Opportunities in network engineering / infrastructure
+  - Collaborations on networking or DevOps-adjacent projects
+```
+
+---
+
+## 📬 `connect --with-me`
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | *coming soon* |
+| 🐙 GitHub | you're already here |
+| 📧 Email | *tishanga46@gmail.com* |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> Last packet sent: recently
+> Uptime: still going
+> Next goal: loading...
+```
+
+*"The network is never fully configured. There's always one more VLAN."*
+
+![Profile views](https://komarev.com/ghpvc/?username=tishanga&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
