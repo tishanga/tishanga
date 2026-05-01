@@ -67,7 +67,8 @@ Helpdesk App  ✅ Shipped it. It works. People use it.
 > without needing a rack full of hardware (or a budget for one).
 ```
 Stack: ContainerLab · Docker · Cisco IOS · Linux
-Status: 🟡 Always evolving
+Web Dasboard: 🟢 Running in production
+Status: 🟢 Running in production
 ```
 
 ### 🤖 Ansible Switch IOS Upgrade Automation
