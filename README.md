@@ -97,9 +97,10 @@ Status: 🟢 Running in production
 
 ```yaml
 learning:
-  - Routing protocols (OSPF, EIGRP — one day, BGP)
+  - Dive deeper into networking (PABX,CGNAT,etc..)
   - Deeper Linux (scripting, automation)
-  - Network automation with Ansible / Python
+  - Network automation with Salt / Python
+  - Devops (jenkins,aws,azure)
 
 building:
   - More containerized tools for the uni
